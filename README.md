@@ -1,3 +1,2 @@
-
-This is my first task(1) with Grow with code.
+In this repository u will find the Tasks with GROW WITH CODE
 
